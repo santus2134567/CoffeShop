@@ -11,6 +11,3 @@ interface PaymentProcessor
      */
     public function pay();
 }
-Footer
-© 2022 GitHub, Inc.
-Footer navigation
